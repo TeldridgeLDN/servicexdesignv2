@@ -1,7 +1,7 @@
 ---
 title: "Vodafone - Designing an urban mobility tracking service"
 date: 2015-09-29T18:55:49Z
-draft: true
+draft: false
 ---
 
 #### Designing an urban mobility tracking service

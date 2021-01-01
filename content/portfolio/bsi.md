@@ -1,7 +1,7 @@
 ---
 title: "BSI - Creating a service for international standards"
 date: 2019-11-29T18:55:06Z
-draft: true
+draft: false
 ---
 
 #### Remodelling Standards to help a new audience

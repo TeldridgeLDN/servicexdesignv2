@@ -1,7 +1,7 @@
 ---
 title: "Yunojuno - Redesigning the hiring process"
 date: 2018-11-29T18:56:37Z
-draft: true
+draft: false
 ---
 
 #### Redesigning the hiring process

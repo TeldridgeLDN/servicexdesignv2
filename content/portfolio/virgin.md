@@ -1,7 +1,7 @@
 ---
 title: "Virgin Atlantic - Re-imagining the airport lounge of the future"
 date: 2019-03-29T18:54:55Z
-draft: true
+draft: false
 ---
 
 #### Re-imagining the airport lounge of the future

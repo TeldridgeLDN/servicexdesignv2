@@ -1,7 +1,7 @@
 ---
 title: "Microsoft & SAP - Bringing cloud computing to life through art"
 date: 2017-05-29T18:55:32Z
-draft: true
+draft: false
 ---
 
 
