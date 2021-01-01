@@ -1,7 +1,7 @@
 ---
 title: "What Is Strategic Design?"
 date: 2020-11-29T18:51:57Z
-draft: true
+draft: false
 Menu: "main"
 ---
 
