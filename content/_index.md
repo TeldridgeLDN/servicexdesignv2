@@ -32,4 +32,4 @@ I studied Political Science at the London School of Economics. These brought two
 I am a runner and a triathlete who fell into these activities late in life.
 
 
-My life is powered by good coffee rituals (the inverted aero press method if you must know is my preferred brewing technique) and the patience of my family and friends
+My life is powered by good coffee rituals (the inverted aero press method if you must know is my preferred brewing technique) and the patience of my family and friends.
