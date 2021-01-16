@@ -5,17 +5,8 @@
     {{ $pages := where site.RegularPages "Type" "post" }}
     {{ $paginator := .Paginate $pages }}
     {{ range $index, $page := $paginator.Pages }}
-
-{{.Content}}
-
-    <li {{if eq $index 0}}class="first" {{end}}>
-      <h1><a href="{{ $page.Permalink }}" title="{{ $page.Title }}">{{ .Title }}</a></h1>
-      {{ partial "aside" . }}
-      {{ partial "featured_image" .}}
-      <p>{{ .Summary }}</p>
-      {{ if .Truncated }}
-      <a href="{{ .RelPermalink }}">{{ T "readMore" }}</a>
-      {{ end }}
+    <li> 
+    {{.Content}}
     </li>
     {{ end }}
   </ul>
