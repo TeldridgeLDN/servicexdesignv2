@@ -12,3 +12,4 @@ theme = "hugo-kiera"
     customCSS = []  #Optional Customised CSS
     homepageLength = 10
     google_fonts = ["Spectral"] # Adds additional google fonts
+    
