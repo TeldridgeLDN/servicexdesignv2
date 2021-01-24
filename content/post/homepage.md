@@ -5,7 +5,7 @@ draft: false
 weight: 20
 ---
 
-![a scene of a building embedded into its surroundings with the emphasis on movement](/img/∏schneider_schumacher_100803_Skizze_Ausgrabung.jpg)
+![a scene of a building embedded into its surroundings with the emphasis on movement](/img/schneider_schumacher__Ausgrabung.jpg)
 
 ### About me
 
