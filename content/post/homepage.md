@@ -7,8 +7,6 @@ weight: 20
 
 ![a scene of a building embedded into its surroundings with the emphasis on movement](/img/∏schneider_schumacher_100803_Skizze_Ausgrabung.jpg)
 
-<img alt="A lazy image" class="lazy" data-src="∏schneider_schumacher_100803_Skizze_Ausgrabung.jpg" />
-
 ### About me
 
 Hello, curious traveller to this bio. I am Tom Eldridge, a design strategist helping to build businesses, product and services that are sustainable and people orientated.
