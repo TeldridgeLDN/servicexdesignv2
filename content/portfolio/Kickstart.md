@@ -14,6 +14,6 @@ The challenge was to design a Government backed service that gives young people 
 
 From the moment the scheme was announced by the UK Government in the summer of 2020, there was a hard deadline to design and get the service up and running by September. 
 
-The focus of attention was to bring the core team and stakeholders together to a common vision for the service and then to design adn build a joined up servce that is in keeping with [GOV.UK](https://design-system.service.gov.uk/) patterns of design.
+The focus of attention was to bring the core team and stakeholders together to a common vision for the service and then to design and build a joined up servce that is in keeping with [GOV.UK](https://design-system.service.gov.uk/) patterns of design.
 
-Key to designing the service was the creation of a unifying service deisgn map that captured the future state of the service. Once the service was live, the focus switched to enhancing the service experience for employers, young people and Job Centre staff who all interacted with the service.      
+Key to designing the service was the creation of a unifying service design map that captured the future state of the service. Once the service was live, the focus switched to enhancing the service experience for employers, young people and Job Centre staff who all interacted with the service.      
