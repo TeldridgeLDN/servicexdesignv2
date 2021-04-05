@@ -16,7 +16,7 @@
     <ul>
         {{ range .Pages }}
         <li>
-            <a href="{{ .Permalink }}">{{ if .Draft }}{{ T "draft" }}: {{end}}{{ .Title | markdownify }}</a>
+            <a href="{{ .RelPermalink }}">{{ if .Draft }}{{ T "draft" }}: {{end}}{{ .Title | markdownify }}</a>
             
         </li>
         {{ end }}
