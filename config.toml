@@ -2,6 +2,11 @@ baseURL = "https://www.strategyxdesign.co.uk/"
 languageCode = "en-us"
 title = "Strategy x Design"
 
+[menu]
+[[menu.main]]
+  name = 'main'
+  url = '/'
+
 theme = "hugo-kiera"
 
     [params]
