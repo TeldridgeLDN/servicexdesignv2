@@ -5,7 +5,7 @@ title = "Strategy x Design"
 [menu]
 [[menu.main]]
   name = 'Strategyxdesign_portfolio'
-  url = '/other/'
+  url = '/other'
 
 theme = "hugo-kiera"
 
