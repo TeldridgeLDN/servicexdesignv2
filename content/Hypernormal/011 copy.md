@@ -1,6 +1,6 @@
 ---
 title: "011a - Lightness > Speed"
-date: 2021-09-28T12:24:00+01:00
+date: 2021-09-26T12:24:00+01:00
 draft: false
 ---
 
