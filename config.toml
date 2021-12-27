@@ -2,15 +2,6 @@ baseURL = "https://www.strategyxdesign.co.uk/"
 languageCode = "en-us"
 title = "Strategy x Design"
 
-[build]
-publish = "public"
-command = "hugo"
-
-[context.production.environment]
-HUGO_VERSION = "0.91.1"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
-
 theme = "hugo-kiera"
 
     [params]
