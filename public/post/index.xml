@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Strategy x Design</title>
+    <link>https://www.strategyxdesign.co.uk/post/</link>
+    <description>Recent content in Posts on Strategy x Design</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Nov 2020 18:35:33 +0000</lastBuildDate><atom:link href="https://www.strategyxdesign.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home</title>
+      <link>https://www.strategyxdesign.co.uk/post/homepage/</link>
+      <pubDate>Sun, 29 Nov 2020 18:35:33 +0000</pubDate>
+      
+      <guid>https://www.strategyxdesign.co.uk/post/homepage/</guid>
+      <description>About me Hello, curious traveller to this bio. I am Tom Eldridge, a design strategist helping to build businesses, product and services that are sustainable and people orientated. ​​
+What is strategic design and where do I fit in? ​​ I help organisations find the right opportunities to future-proof their business by helping them better integrate with the people and environments they operate in. Strategic Design builds on my background in service design, user research to create a more considered approach to services.</description>
+    </item>
+    
+  </channel>
+</rss>

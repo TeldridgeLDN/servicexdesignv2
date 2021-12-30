@@ -1,0 +1,542 @@
+bplist00Ò_WebMainResource_WebSubresourcesÕ	
+_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName^WebResourceURL_WebResourceFrameNameO+£<!DOCTYPE html><html lang="en" stopthemadness-user-drag="true" stopthemadness-user-select="true"><head>
+
+	<title>strategyxdesign</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="main.css" type="text/css" charset="utf-8">
+	<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""> 
+<link href="https://fonts.googleapis.com/css2?family=Spectral&amp;display=swap" rel="stylesheet">
+</head>
+
+<body>
+	<div class="header">
+		<h1>Tom Eldridge</h1>
+	</div>
+
+	<div class="main">		
+		<div class="intro">
+			<p>I am Tom Eldridge, a strategic designer building products and services that are sustainable and people orientated. â€‹ Currently designing at <a href="https://www.gov.uk/universal-credit">Univeral Credit Gov.UK</a>, to help citizens into work.</p>
+			
+			<p>I help organisations find the right opportunities to future-proof their business by helping them design for the people and environments they operate in. <a href="mailto:tom.eldridge@gmail.com">Get in touch</a> if youâ€™d like to work together.</p>
+			<li></li>
+		</div>
+
+<!-- Links -->
+		
+	<div class="links-nav">
+		<h2 class="small-text small-heading">Links</h2>
+		<ul>
+			<li><a href="https://buttondown.email/tomxedridge">Newsletter</a></li>
+			<li><a href="https://www.instagram.com/tomxeldridge/">Instagram</a></li>
+			<li><a href="https://twitter.com/MajorTomLDN">Twitter</a></li>
+			<li><a href="https://github.com/TeldridgeLDN">Github</a></li>
+		</ul>			
+	</div>
+
+<!-- Portfolio posts -->
+	
+		<div class="portfolio">
+
+			<div class="portfolio-item">
+				<div class="description">
+					<h2><a href="https://transformyour.work/">Transform your work</a></h2>
+					<p>
+					Content, research and design for a modern day toolkit of workerâ€™s inquiries. Code-free publishing with Notion.
+					</p>
+				</div>
+				<img src="images/transformyourwork.jpg" alt="Screenshot of a Notion page with boxes of different approaches showing Diary Keeping, Visual Research and Surveys in view">
+				<p class="small-text">with <a href="https://gemmacope.land/">Gemma</a>, <a href="https://commonknowledge.coop/">Common Knowledge</a> and <a href="https://autonomy.work/">Autonomy</a>. Illustrations by <a href="https://www.instagram.com/andrewjbeltran/">Andrew Beltran</a>.</p>
+			</div>
+
+			<div class="portfolio-item">
+				<div class="description">
+					<h2><a href="https://www.citizensadvice.org.uk/immigration/">Citizens Advice</a></h2>
+					<p>Redesigning the website, updating digital brand language and leading on a new <a href="https://github.com/citizensadvice/design-system">design system.</a></p>
+				</div>
+				<img src="images/citizensadvice.jpg" alt="Screenshots of website showing mobile and desktop view of a content page from the immigration section">
+				<p class="small-text">with <a href="https://minniessuyuhuang.com/">Minnie</a>, <a href="https://www.shakiradamji.com/">Shakira</a>, <a href="http://chromateka.com/">Kostas</a> and the Public Advice team</p>
+			</div>
+
+			<div class="portfolio-item">
+				<div class="description">
+					<h2>
+					<a href="https://gds.blog.gov.uk/2016/05/25/its-ok-to-say-whats-ok/">Itâ€™s ok to</a>
+					</h2>
+					<p>Poster to share workplace culture with newcomers to the Government Digital Service. Exhibited at the <a href="https://superflux.in/index.php/work/how-will-we-work/">Vienna Biennale</a> in 2017.</p>
+				</div>
+				
+				<img src="images/itsokto-2.jpg" alt="Itâ€™s ok to poster on the wall in the old GDS office">
+				<p class="small-text">words by <a href="https://gilest.org/">Giles</a> and the comms team</p>
+			</div>
+
+			
+			<div class="portfolio-item">
+				<div class="description">
+					<h2><a href="https://insidegovuk.blog.gov.uk/2019/04/23/building-and-testing-the-new-content-publisher/">GOV.UK Content Publisher</a></h2>
+					<p>Consolidating multiple publishing apps into a new, accessible content management system for government departments.</p>
+				</div>
+				<img src="images/content-publisher-2.jpg" alt="Screenshots of CMS showing the tagging interface and a new post page">
+				<p class="small-text">with <a href="https://uk.linkedin.com/in/jeremyhhy">Jeremy</a>, <a href="https://uk.linkedin.com/in/alex-ju">Alex</a>, Ben Hazel and the Publisher team</p>
+			</div>
+
+			
+			<div class="portfolio-item">
+				<div class="description">
+				<h2><a href="http://govdesign.tumblr.com/tagged/pride">London Pride</a>
+				</h2>
+				<p>Campaigns for LGBT+ Pride month in 2016 and 2017. <a href="https://designnotes.blog.gov.uk/2016/06/22/showing-our-colours/">Read about why we did it.</a></p></div>
+				<img src="images/pride-2.jpg" alt="Posters showing quotes by LGBT+ people">
+				<p class="small-text">with LGBT+ network members </p>
+			</div>
+			
+			
+			<div class="portfolio-item">
+				<div class="description">
+				<h2><a href="https://www.payments.service.gov.uk/">GOV.UK Pay</a></h2>
+				<p>
+					Online payment platform for government services. Card details pattern is part of the <a href="https://design-system.service.gov.uk/patterns/payment-card-details/">GOV.UK Design System</a>.  
+				</p></div>
+				<img src="images/govuk-pay-2.jpg" alt="Mobile view of a payment page and desktop view of the transactions admin interface">
+				<p class="small-text">with <a href="https://www.loft27design.com/">Stephen</a>, <a href="https://jonheslop.com/">Jon</a> and the Pay team</p>
+			</div>
+
+			
+			<div class="portfolio-item">
+				<div class="description">
+				<h2><a href="https://www.payments.service.gov.uk/payment-links/">GOV.UK Payment Links</a> 
+				</h2>
+				<p>Help departments to take online payments without building a digital service.</p></div>
+				<img src="images/govuk-pay-paymentlink.gif" alt="Gif of payment link creation flow">
+				<p class="small-text">with <a href="https://uk.linkedin.com/in/roryjhs">Rory</a>, <a href="https://jonheslop.com/">Jon</a> and the Pay team</p>
+			</div>
+
+			
+			<div class="portfolio-item">
+				<div class="description">
+				<h2>Is Magazine</h2>
+				<p>
+				Limited edition independent magazine to showcase of art and visual culture. 6 issues from SS14 to AW16.  
+				</p></div>
+				<img src="images/is-magazine-2.jpg" alt="Image of open magazine spreads">
+			</div>
+
+			
+			<div class="portfolio-item">
+				<div class="description">
+				<h2><a href="https://www.arabellalondon.co.uk/">Arabella London</a></h2>
+				<p>
+				Brand identity and logotype for new swimwear label.
+				</p></div>
+				<img src="images/arabella-logo-2.jpg" alt="Logo over abstract water image">
+				<p class="small-text">with <a href="https://cargocollective.com/jusdevonmoore">Justin Devon Moore</a></p>
+			</div> 
+		</div>
+
+		<div class="cv">
+			<h2 class="small-text small-heading">Previously</h2>
+			<p>
+				oct 2020â€“august 2021<br>
+				Design and research, Common Knowledge
+			</p>
+			<p>
+				janâ€“may 2021<br>
+				<a href="https://docs.google.com/document/d/1dAqglXGTuYjadNg8RkNFtOFqfNgm2jbzGjZwEU3C_Eg/">Service design and training</a>, NHS Digital
+			</p>
+			<p class="small-text">with <a href="https://twitter.com/claragt">Clara Greo</a></p>
+
+			<p>
+				jan 2021<br>
+				Guest Lecturer, MA Graphic Media Design<br>
+				London College of Communication
+			</p>
+			<p class="small-text">with <a href="https://gemmacope.land/">Gemma</a> as part of Common Knowledge</p>
+
+			<p>
+				2019â€“2020<br>
+				Product design, Citizens Advice
+			</p>
+			<p>
+				oct 2020<br>
+				<a href="https://digitalfuturesociety.com/report/exploring-gender-responsive-designs-in-digital-welfare/">Speculative design</a>, Digital Future Society <br>
+			</p>
+			<p class="small-text">with Itziar and Shu</p>
+			<p>
+				mar 2020<br>
+				<a href="https://2020.govservicedesign.net/programme/power-and-privilege-design-training-course">Workshop</a>, SDinGov conference
+			</p>
+			<p class="small-text">with <a href="https://twitter.com/claragt">Clara Greo</a></p>
+
+			<p>
+				dec 2019<br>
+				<a href="https://medium.com/digitalfund/materials-and-content-to-support-better-digital-grantmaking-85b3f1d6cb80">Visual and content design</a>, Good Digital Grantmaking<br> 
+				The National Lottery Community Fund
+			</p>
+			<p class="small-text">with Emily Bazalgette</p>
+
+			<p>2016â€“2019<br>
+				Design, Government Digital Service
+			</p>
+			<p>
+				2014â€“2015<br>
+				Graphic Design, Ennovators ecommerce
+			</p>
+			<p>
+				2014â€“2016<br>
+				Designer and editor of independent arts magazine<br>
+				Is Magazine
+			</p>
+		</div>
+
+		<div class="education">
+			<h2 class="small-text small-heading">Education</h2>
+			<p>
+				2021â€“present<br>
+				MA Ecology, Culture and Society (Sociology)<br>
+				Goldsmiths
+			</p>
+			<p>
+				2018-2020<br>
+				MA Critical and Creative Analysis (Sociology) Distinction<br>
+				Goldsmiths
+			</p>
+			<p>
+				2011-2014<br>
+				BA(Hons) Graphic Design 1st Class<br>
+				University for the Creative Arts
+			</p>
+		</div>
+
+<!-- Links -->
+		
+		<div class="links-nav">
+			<h2 class="small-text small-heading">Links</h2>	
+			<ul>
+				<li><a href="https://www.are.na/sonia-turcotte">Are.na</a></li>
+				<li><a href="https://github.com/soniaturcotte">Github</a></li>
+				<li><a href="https://twitter.com/sonia_turcotte">Twitter</a></li>
+				<li><a href="http://soniaturcotte.tumblr.com/">Tumblr</a></li>
+				<li><a href="https://buttondown.email/soniaturcotte">Newsletter</a></li>
+			</ul>			
+		</div>
+		
+	</div>
+	<div class="footer">
+		<p class="small-text">Handcoded and typeset in Questa. Your data isn't collected when using this site.</p>
+	</div>
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>Ytext/htmlUUTF-8_*http://127.0.0.1:5500/strategyxdesign.htmlP£Õ_WebResourceResponseOé@font-face {
+    font-family: 'Spectral';
+    src: url('fonts/Spectral/Spectral-Regular.ttf') format('Spectral-Regular');
+  }
+  
+  @font-face {
+    font-family: 'Spectral';
+    src: url('fonts/Spectral/Spectral-Light.ttf') format('Spectral-Light'),
+  }
+  
+  body {
+    margin: 0;
+  }
+
+  body, h2, h3, p, ul, li {
+    font-family: 'Spectral', serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.3;
+    color: #181818;
+    background: #F7F6F6;
+  }
+  
+  .intro, .links-nav, .cv, .education, .footer {
+    width: 90%;
+    max-width: 40rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 150px;
+  }
+
+  .header {
+    font-family: 'Spectral', serif;
+    margin-left: 470px;
+    margin-top: 100px;
+    height: 40vh;
+  }
+  
+  a {
+    text-decoration: none;   
+    color: #181818;
+    background: -webkit-linear-gradient(left,#D21258,#D21258 100%);
+    background: linear-gradient(left,#D21258,#D21258 100%);
+      background-position: 0 90%;
+      background-size: 10px 1px;
+      background-repeat: repeat-x;
+  }
+  
+  .small-text a {
+    text-decoration: none;   
+    color: #181818;
+    background: -webkit-linear-gradient(left,#181818,#181818 100%);
+    background: linear-gradient(left,#181818,#181818 100%);
+      background-position: 0 90%;
+      background-size: 10px 1px;
+      background-repeat: repeat-x;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #D21258;
+    background: -webkit-linear-gradient(left,#D21258,#D21258 100%);
+    background: linear-gradient(left,#D21258,#D21258 100%);
+      background-position: 0 90%;
+      background-size: 10px 1px;
+      background-repeat: repeat-x;
+  }
+  
+  a:active {
+    text-decoration: none;
+    color:#181818;
+    background: none;
+  }
+  
+  ::selection {
+    color: #181818;
+    background: #ffc5ce; 
+    text-shadow: none;
+  }
+  
+  .header h1{
+    color: #D21258
+  }
+  
+  .portfolio-item {
+    margin-bottom: 100px;
+  }
+  
+  .portfolio-item img {
+    width: 100%;
+  }
+  
+  .description {
+    display: grid;
+    grid-template-columns: 1fr 40rem 1fr;
+    column-gap: 20px;
+  }
+  
+  .links-nav ol, ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .links-nav li {
+  display: inline;
+  padding-right: 20px;  
+  }
+  
+  .cv p{
+    margin-bottom: 0;
+  }
+  
+  .small-text {
+    font-family: 'Spectral', serif;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: inherit;
+    margin-top: 4px;
+  }
+  
+  .small-heading {
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  
+  .footer{ 
+    margin-top: 200px;
+    margin-bottom: 50px;
+    color:  #616a6b;
+  }
+  
+  /* viewport sizing  */
+  
+  .main {
+    max-width: 1600px;
+  }
+  
+  @media screen and (max-width: 1024px) {
+   .description {
+     display: grid;
+     grid-template-columns: 1fr 3fr;
+    }
+  }
+  
+  @media screen and (max-width: 800px) {
+    .header, .intro, .links-nav, .cv, .education, .footer, .portfolio-item {
+      max-width: none;
+      margin-bottom: 75px;
+     }
+  
+     .portfolio, .footer {
+       margin-top: 100px;
+     }
+  
+     .description {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+     }
+     .description p {
+       margin-top: 0;
+     }
+   }Xtext/cssUutf-8Oîbplist00Ô
+X$versionY$archiverT$topX$objects † _NSKeyedArchiverÑ	_WebResourceResponse€¯$'-.4567UVWXYZ[\]^_`abcdefghijklmqrU$nullİ !"#$%&___nsurlrequest_proto_prop_obj_6___nsurlrequest_proto_prop_obj_3R$2___nsurlrequest_proto_prop_obj_0R$3___nsurlrequest_proto_prop_obj_4V$class___nsurlrequest_proto_prop_obj_1R$4R$0___nsurlrequest_proto_prop_obj_5___nsurlrequest_proto_prop_obj_2R$1€"€€	€€#€€ €Ó()$+,WNS.base[NS.relative€ €€_http://127.0.0.1:5500/main.cssÒ/012Z$classnameX$classesUNSURL¢13XNSObject#AÃ“*zIº ÈÓ89:GTWNS.keysZNS.objects¬;<=>?@ABCDEF€	€
+€€€€€€€€€€¬HIJKLMNOPQRS€€€€€€€€€€€€ €!\Content-Type]Accept-RangesZKeep-Alive]Cache-ControlTDate_ Access-Control-Allow-Credentials^Content-LengthZConnectionX__hhaa__TEtagTVary]Last-Modified_text/css; charset=UTF-8UbytesYtimeout=5_public, max-age=0_Mon, 25 Oct 2021 17:17:41 GMTTtrueT3305Zkeep-alive_x
+
+YnBsaXN0MDDbAQIDBAUGBwgJCgsMDhASFBYYGhweIFpDb25uZWN0aW9uXENvbnRlbnQtVHlwZVpLZWVwLUFsaXZlXUxhc3QtTW9kaWZpZWRUVmFyeV8QIEFjY2Vzcy1Db250cm9sLUFsbG93LUNyZWRlbnRpYWxzXUFjY2VwdC1SYW5nZXNURGF0ZV5Db250ZW50LUxlbmd0aF1DYWNoZS1Db250cm9sVEV0YWehDVprZWVwLWFsaXZloQ9fEBd0ZXh0L2NzczsgY2hhcnNldD1VVEYtOKERWXRpbWVvdXQ9NaETXxAdTW9uLCAyNSBPY3QgMjAyMSAxNzoxNjowMiBHTVShFVZPcmlnaW6hF1R0cnVloRlVYnl0ZXOhG18QHU1vbiwgMjUgT2N0IDIwMjEgMTc6MTc6NDEgR01UoR1UMzMwNaEfXxARcHVibGljLCBtYXgtYWdlPTChIV8QE1cvImNlOS0xN2NiODczYjBjZSIACAAfACoANwBCAFAAVQB4AIYAiwCaAKgArQCvALoAvADWANgA4gDkAQQBBgENAQ8BFAEWARwBHgE+AUABRQFHAVsBXQAAAAAAAAIBAAAAAAAAACIAAAAAAAAAAAAAAAAAAAFz_W/"ce9-17cb873b0ce"VOrigin_Mon, 25 Oct 2021 17:16:02 GMTÒ/0no_NSMutableDictionary£np3\NSDictionaryXtext/cssÒ/0st_NSHTTPURLResponse£uv3_NSHTTPURLResponse]NSURLResponse    $ ) 2 7 I L b d ‹ ‘ ¬ Î ğ ó:Acfi‹­°²´¶¸º¼¾ÀÁÃÅÇÉĞØäæèê$*-6?ACJR]jlnprtvxz|~€‚‘“•—™›Ÿ¡£¥§©¶ÄÏİâ(-2@Z`j~£¨³/ELlq‡‹˜¡¦º¾Ò             w              à_http://127.0.0.1:5500/main.cssÕOe/* cyrillic */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M9knjsS_ulYHs.woff2) format('woff2');
+  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M2knjsS_ulYHs.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M3knjsS_ulYHs.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Spectral';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M5knjsS_ul.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+Ombplist00Ô
+X$versionY$archiverT$topX$objects † _NSKeyedArchiverÑ	_WebResourceResponse€¯#'-.4567UVWXYZ[\]^_`abcdefghijklpqU$nullİ !"#$%&___nsurlrequest_proto_prop_obj_6___nsurlrequest_proto_prop_obj_3R$2___nsurlrequest_proto_prop_obj_0R$3___nsurlrequest_proto_prop_obj_4V$class___nsurlrequest_proto_prop_obj_1R$4R$0___nsurlrequest_proto_prop_obj_5___nsurlrequest_proto_prop_obj_2R$1€!€€	€€"€€ €Ó()$+,WNS.base[NS.relative€ €€_>https://fonts.googleapis.com/css2?family=Spectral&display=swapÒ/012Z$classnameX$classesUNSURL¢13XNSObject#AÃ“*zµ» ÈÓ89:GTWNS.keysZNS.objects¬;<=>?@ABCDEF€	€
+€€€€€€€€€€¬HIJKLMIOPQRS€€€€€€€€€€€€€ \Content-Type_Access-Control-Allow-Origin_Content-Encoding_X-XSS-Protection_Cross-Origin-Resource-PolicyWExpires_Timing-Allow-Origin]Cache-ControlTDateX__hhaa___X-Content-Type-Options_X-Frame-Options_text/css; charset=utf-8Q*TgzipQ0\cross-origin_Mon, 25 Oct 2021 17:17:41 GMT_private, max-age=86400_Mon, 25 Oct 2021 17:17:41 GMT_°
+
+YnBsaXN0MDDbAQIDBAUGBwgJCgsMDhASFBUXGRsdH18QG0FjY2Vzcy1Db250cm9sLUFsbG93LU9yaWdpblxDb250ZW50LVR5cGVXRXhwaXJlc18QFlgtQ29udGVudC1UeXBlLU9wdGlvbnNfEBNUaW1pbmctQWxsb3ctT3JpZ2luVERhdGVfEA9YLUZyYW1lLU9wdGlvbnNfEBBDb250ZW50LUVuY29kaW5nXxAQWC1YU1MtUHJvdGVjdGlvbl1DYWNoZS1Db250cm9sXxAcQ3Jvc3MtT3JpZ2luLVJlc291cmNlLVBvbGljeaENUSqhD18QF3RleHQvY3NzOyBjaGFyc2V0PXV0Zi04oRFfEB1Nb24sIDI1IE9jdCAyMDIxIDE3OjE3OjQxIEdNVKETV25vc25pZmahDaEWXxAdTW9uLCAyNSBPY3QgMjAyMSAxNzoxNzo0MSBHTVShGFpTQU1FT1JJR0lOoRpUZ3ppcKEcUTChHl8QFnByaXZhdGUsIG1heC1hZ2U9ODY0MDChIFxjcm9zcy1vcmlnaW4ACAAfAD0ASgBSAGsAgQCGAJgAqwC+AMwA6wDtAO8A8QELAQ0BLQEvATcBOQE7AVsBXQFoAWoBbwFxAXMBdQGOAZAAAAAAAAACAQAAAAAAAAAhAAAAAAAAAAAAAAAAAAABnQ==WnosniffZSAMEORIGINÒ/0mn_NSMutableDictionary£mo3\NSDictionaryXtext/cssÒ/0rs_NSHTTPURLResponse£tu3_NSHTTPURLResponse]NSURLResponse    $ ) 2 7 I L b d Š  « Í ï ò9@behŠ¬¯±³µ·¹»½¿ÀÂÄÆÈÏ×ãåçé*/:CILU^`biq|‰‹‘“•—™›Ÿ¡®°²´¶¸º¼¾ÀÂÄÆÈÕó8@Vdir‹·¹¾ÀÍí&Úâíò"';?S             v              a_>https://fonts.googleapis.com/css2?family=Spectral&display=swapÔO5´wOF2     5´     ¢¸  5Z                       ßF•z` „6
+›Hı|„V 6$‰( ƒv™(5l›FÍnÉLôgÜñn‘”ÄÙÌ`°q „Õ¿ÿÿ)	jx¢ºrµÌğ0<š5E±ì£K—¤fZ[H“‘™6„p.õèîSÃî²O¶¹õ[İãß³ÚŸ¦¢r(Eq ‚»˜z.Ëøî°ı¿µ,—¡•u^Ïïú9÷>¬‰&·M`fİº]hë,UæŸ„÷?·Ş_²Q5«`,¶Áš±¦BÚ@AÁ@l´Q¬ó°ïŒÂÌóì<¯Œ,êá!gß¿Ré.5L§FÅJõxDBRU¢ùÛ@XÇ¾-n£dJkbúãİ&/ããˆH ôõ·¹ùv`¿™ÀXİ'ZD7ØšÏ%)* 2>Çåq¹\.‡Ã‘Kd‹m6/]CîÓÇçddn!ç«9ëdBeæÀ¶íMV»DpÊÈUD ¢rË2À³ß´÷ŸS›‘¯3Ñrœ…Áv‰œ´üçGJ—HÙeùZ§D*0ÛÎåÖ!½ÌµNÖÂ“0zíÜ\·§ó\òkc’rKe{ /,ãıÏõ¾¾}M÷ø>%2¶Bogï›Ù¼ä¾-8™ÜL^!EV5–Uê©3e[a++d¶
+èƒûÖüÿ_gù­®5:kí bQ¶@]NŠšŞ{ÒHz–4–¬ñ®FZ’°gÉ´‰Ã†g1İìgCdt@%P…E.}“.'EÙÓøïÛël&KJ†¯ä
+·Î¦•¡Êï¨Eèº.Çã0Šƒ78zÆû‡X0keIk4š	¾‡©³ë?ØâP‹CÚ$½Îc‡R(êj$¾ó³ä=]iævĞ:ŠÂˆÁ¼åêWZƒt&r6«>ÍÃ#DÙÛ¨:»ï›a‘ˆˆˆADDBÄ{T†ó0Ñ|v;Ùıši:Ñ‡†êÿ7	a ‡€ „‚‹
+ACƒHB‡àáAèè ÌÌVvˆL~ˆù…
+!Š•@T©‚¨WÑ¢ - @ ­ˆè`—¼çÉÊWÃšêòmUs ÀšŸˆ£ß4õ‡  €€Cƒ,t€À §!’à€V4<OAùËDÅè²Ğ"«­ñÄSÏ<‡LîPXeï“f§e™çkñº-Ä,2«Íš6fÔÀQßŠ·ŸÍaµÚirA¸:¬ƒûê6ÉbMIú:M`PŞÑ«»ü_jpÎ™aÎìDa™õlnY[€„ójM=ıPEëø¿rN™ÚS“İ{ÕÁW;Í£0ˆ7ğ÷âÄÇùÔ/tz¶o‹™sPÄ¹é)Ê /ôœ8àšîN„{@l—¨÷‹ÁU ¯˜@>Ÿ¨ÊÂƒÔ‹dPŠ?-ÿ&ÌƒúĞ.s œˆÃÄŒâLh±Œq|Z|’ºÕÒ˜ÿHM9˜µÖÕ¡³‹uègß´^0%(K"ıKfœ°Ó²î3²wşìêës{rÛÿÚœl­Â•ô‘vØî±Ÿ£;™H`¥L/õ€hh¦+ğz³íñ¸ş²ü‰´"ÇhÎâbIÖ
+|Ø¢àÑ8¿Á¯ûd³hï"Üæ©şSXç‘–ç{7pÎöD…Ï3$ÂùG±.}
+İƒ¸R•äC‡|•uEIY0RÇ?#b‚qM$l‹`|`ÌUÎ/zG™
+rÍ¿Äsµ„;kÔÓ´ÆèËIÓ„ùÊWn$¡Ií2gÙˆ2ô?dVá¼íë0KN…Ê`ÚìÉÖ<È^Æç£9ÛG7-ú²ø\·©…43¹LctÙŞ¸?Kµ/Óß»³™Dk¯É‚'lÁyˆ[XÜ&7R¯‹¬Ë»	VÛlY(ì`ñÎÈeªë÷g¸w@£;¼\ô(pEK zà¡ˆçÖjvûZ„æĞŞeÏŒ±”‘öœe¿…·NÕöˆ²t)}ÈÌ`åˆ
+m±^±n€ùŞÆçIÂGêPkCQºdJ[q›$FN+#9«¥ÄÍ^¥Ù2j:à)Mß]y¶˜%n:TŠ¨PBÁõ‹v.@0“VIL¶@-ş÷¿u)ñ’„ÈìıL1,@^¤ug‡âöbyã¡ŒÉJ)£ëÏ·şq×LnC~Ÿñß¼B:Ú†‰'y-ˆhğŒ³u]hÂsªX˜"ë´m‚_^¨\Ñ=BŸ¯ú‹˜0g+Ä¥±NßŞşIûÌI¿^x´}Qş9‡Ä™±‹mn˜%,±_ZáIŒí|3;„!ÓE@´¼«VÊO«d×0å¯²9¨™’2[?rŒ‚ò=5`zSQİ€^<8ÒY °TÒ]Ùë›{[U,òŠú„a!×òµê®tlXÊÑÚ‹?€|ü”>ã”WÛx1~¹ÎÙ¡|«Ÿş'ÎÂ#LXŞõÁ?!NE« ÷aûrcˆ CN2BaíÄ_w]Ë£WêïÉ.´lºøÕÏŒ¥ïXÿ%ØûÅ¡‚
+²q’~õéN&hbk´]+¶V¤.êÅœ¬´Å8Úš1±îûl-4>ãá'°÷»R4UpÕóˆz(8|ïL“¤û[ì—°¡¹nÏ‹À@ğ‘°0Jo]ê7[´cÔfÚ5á,{0ÛŸµyûÕñÅıù¾é¶ùîzlQD„ËAB`U±ñ¬† ‘O	I"¹h2‘ŠPñ‚¹0d‰@CD„ÿ‹‹€'‚0^pı|º7Œ8!p¤bÁÂ¢$†^”paÈT’(¡báÚá05ÖAb<N²A­ÔãQ_$M*şuÄ&`®—HÁ”v€Ac#y4`ùz–]—;ô,üQÄa¦21ÓÒ±I·³qaÒ‹„xÅ8céá°#ú0!&ÌÎÓh<¶…è8áÊğöêÕCE ²Ša.ş*la!@Q=±ˆµpÈXœt˜g“D
+F'Xğ<Ùòú!PÉ(DÂDÁ±/&LîGêä4a‹#ÔzI2¬çÅ3€Iäè×• v=SJzeö~=“Ï/¦onâkÏ‰FE<³Ÿ4ZR2iÔ £&c&| T€­¿é¢!@+KS|6(ã±í·ğ3;$oçä1Àò¾ÇÆ€‚OsÜèšŸ* `!\İöz£p…çgNŞ÷ı€Hÿ£‘sÁöm]ï*ø¹	N=ôQl¶y_­ß·44Áè6Lø×=, -¼ äcèºP‘(bÄ¡¢IjU¸dEX‹c™,‡œ›hécİ>˜à^œ2áû–2×|Ğ‰wƒÈ úg~Rµìë¾t'è)’DHÈGd©Åeb3ô9.W+ÑÂ³“cÈËÈ5@°¸®M Xˆ,`”m;àß†±»Ÿúï®ú“	FÆĞ&Yú|«^ûVîØ–uÒOÉi>ÓÏÊsà\9OÎ‘84
+`×Wîƒ$ˆÈÏ€‘¿åılìgdäºîù¢¢ º'®Ú(ØÎÈHu î™QQmK«(»¡@TSàrˆŠf±ª>Òrbõ/İÃƒ¨ÈMC2Ï!ÁûŞAF¨VÃİˆ$§‘şÚ:¯ù ÃWCáîDE.Ú¨Õ‚7bÚ¸ÊCw¿@Tä cƒ°NğbŒ¿â¸ëQQ3-órdã›™˜
+0« ³¨1•S¾:ä!)oA’¨| @+¸œ´p‘fÄ»¼Ÿ^‚=?‡XÚèv	"‰şØrˆ%‡Øò<„G™‘D4Bñ€Øñœ©8A·ˆ$ú#m¦¢›Øğœ¡è¤[DÀeÁÒÃ‹2¸@$ÑïÒğÂÆv—Ğ^ˆáÚ‘DÃòD¼ñ-€.\H¢_k4?c»Vèù/\½ ’è—§çcÕ.‹äm,›cñS,‘—Søóœ–>:¨ÏBl ²åÌ´õƒÈ+!i°ÖÒ€ W+º¸¤Ü¡09}Nj­e¸ES‰…c$°9d˜˜˜ÒÒ6#=ƒMP kË±:Q¸tj³­¶·i[ø c€ĞÂÉK×àÓBš­,\G:4PÇ2Ö4ˆ!oâ¯©œf}
+×™ê’6cy q‚ˆ‰F3^‰t=òJŒÔ‚šÄ0N4*(®Q5–îFtg}v0æ ÄÀñlÄ1¤˜FÓ/…ëI+Ã*}Ó1”“:9Ò©š­w+ U©Œá` 	Ì3ç—u!Š^zåµ7Şzç½>Z¥3¬ ÁÎ€HßgêÈ0?…xø²KP|òÙ_}óİ?H”›ÂÀ¸àğÕcälÔ“çyP8 ?6)4 †D(P	½ğ±äØd/V4ŠˆŠà¤)…Ù¼²·äoç„*§|Ã
+¥Sßëp2:&NEÊÕê«Ñ`mÆ6ã,Ñ0¿³¤ù³bÌïŠ5¿;Îüx©¼â`>Sêr”r–ÊŠrÅ¹c‡<qSyÈ¹~\òÖ	Ò…«å¿Œ±ƒ"@Jx çÁp`4 6|ì·ÁA0èû9(wÄU@¼Ø`€ èºÀ%°Œ	/•I‰J­Fºé¥ŸÈÄr·oÇö÷ş}“ÄxÎxÍ 2’,¡d¤1lŒfF7“ÅœÉœÍŠdEÿü	IcVªÊpKİò*y9Û·ü+Fƒ¶U
+F*Ä[üh‚æ =à¿?¿w_uó+˜øz‡`+¶à†ô›üsÉG°Ø
+ü
+¢C‘vv¶h…„ (øÿ÷l©uN9D$ÖZ{íógA—ÅÚbù¡…"~wÄ~[(víÛŒ0Dè7g‹(çmwH»£NØT¤%_Ldxê™1E;l‰8isx‡`&6.>!‘db)$¤d2((©¨ih4zFéL†i€F5¤¹h1Ô0­†k3Ê©ûÕ<;ì²Ü
+«­´Ê¤ù©= FÒ­º½Ğçw€²Èw¾UI³vTdÁh‚x›¾é°c‚Ü(…*‚­”tßø“+\«l{Ùk"üe¥)U¤±¤OÉxÊf­’V^°§ ;?Ï!Â5`¤1ö+Æ–p&a—A¡ao]~ë€ÓÜamj›/I8Ö  ¼‚ ]Ã §dñ%Eš“ØµO†á‹Ïû6f.Ú¬\%  =±Iˆ<´µtêúš›äÚÁ^T¤‹‚Ø#VG…íCàV·ÌíDåX[±e-N¯×y!™·ZU%i¹T¾*ôhPBdqr‡R½»t¶·~OêÕ|U"ŠáQi¶B‘ŒA
+I”»t.ƒ+Ë:ş:¯=›1Ö+ #nğ¿WÓ\gùòªUÍ±’hÈ3†³í,ÇÍëpÙ±˜í0®êäõ„F“pY3šlœpÓ .Û'StræÈ'Y÷¤·Ñ÷2”çXç³B!}½K.
+Üt~¹aÕÓN±l±y0È"l´L‘ı i6ü°ìŠÃ.Ğh“V3jdPpó,ĞT;OÉjc0g‘“¸«!>§pïÿ2’¹€ùCYœ5`ö”:ÛïyË¶líÀVY^¦3×w2(=Nr:(ã×¾5 £]í’V¥hk"ş¨3Aïâ*7èrÕ5PT½Ú­DôÔ7Aæ,k v	sÂšåš›VÍ´^÷î‡Ñù‡&´’sÆ`"ÏT^ª·“á§İÂe	-U­Œ¦ïSãûD;»¨FmG&eÍÓšuC1Fã:++™bˆ³<Ö®Ôj¤*–ã³Ã»¥²mØœ~v[óIQm®ZÖØ˜`»Õt¹ŸÓ¢Šg·À˜¼DNşs™ !#–:ÈÚ'5°˜ÛàB†Õ­âMôÂÊõÜÊí·£n­ªWmiÓlyúaùÇlâlÑ$D{Ù64Ç]Oü)ucŒ<=YŸ…|E~ Ê‡{ÃtšüçÉGöåÉâx€ÚÃbc
+HöZ4lñ¹§‘‹J\¿>Óì¬ÚÈRğ—’’WXº±ÑBs"6©²´†(hM’Z!j,‡Ëš^…ÚóL»80TÑ“b¸\ŞaÙÙs§rfÊÕ¦f³KÁ`½ÿü¤lÔP~GÂ²Ù¿ë!¦œº2x¹èjÃ¡föÓ(4 ¿Ú/UæhJ;ó:9ù )’™½E®6Eøî8Ğ(êŒ®á±ôK Ó/ë(q
+ ßÁúF³ó~ÀaeÏ#<ÈØ6¸§W¢dĞ»=²¢À€ª4ŞÏ$! ]šZR·’ÄRh”ºÓ^™˜µ?şcïDŒ¾ÓºÜ¸ƒ¯d‡@|†¨WÒh8"ººÍœ¨t~‘îàP“ì§sÎ”®ıÏh
+àäõÌÈ2aäZ©f	¡Ÿ7=ÔF“B ¸h˜ƒPoç(§,Ù]„ÄÜ5<‹c0ìëW0ŞØVdëqO^xB7!ïûŒ*–ãá\œq®2:ÜƒˆbB_hlC­`ˆÀ*ÀÄ™j.ï×>v Íå’"ÃIbîÚuç;ÄIÃöN”«W‘¯nG½¾ÅË'zåç7J¡©şVş!!SæÍ£,røbã“uJ«Y}?İ²
+ã¥Ç™NpÆ©v¤è™ñu^ËŠ½òŒüˆÕæXVßíÎ+ö}« âÍ›gÔ­Ğ«V	zØrÌ¨c:ç:\áÎ)ÒFÏD¸.-?³V‘yÿé7ÃÊVI?bŞ{e£öÑP×şñåN…çôN=Áß×·ú¸a/T¢|3Ò÷ì‚2Ì±9Ì>+öĞINŒŸTúè5.;‰=ô:3ÆÆ}9;$Óº¶K ÙAC¡ ù¡X Ëı	§Ãh’LMux+NLVvP[ğFá‹ÂÁú½Á–±'ƒ€WªŸ¿AŒÃ1•çuiù.·=Ú?*e3øJù‘jgRŠ‹lÌ–0†e„r85jüÄ’«}×¯Wş6ÃÅ>àB!¨Ø÷ƒWFcu‹?ÿZ¥VzÊÕ¬\Ô–ÑÆébú[Ä¢àgşA~â%—sÜ [»eÚ AƒŸó#‰0xxŠDrÒ‚£¿9R#ÿØuK.å0r.!ç ™øØÔø3
+¬Æª!×8(·L€ƒââz-ò³% š»+ÙŞ?è]/š•©U²\+ñ»Á!@°`.—Rn¡3‚ÀŒôñ¾ ZcŸ=‹Ê|5Ù…´ ².ë•@ùeÊ)8ÏÒ…Z=ĞóÇ‹zØ>û`<9œË <«ØM¢’4(8Ü™”sìP˜£EiúŒã%s‰ÎYµ9@»|Å˜uÃtÄø2?¡
+ôá˜Xƒ¿TÛ<FUk…ÉY‹Å th‚)…ñ
+0áñïh›Õ È@u(4cñG²††ZI,~W$ë‚ëÛHiéÒº&‰nDë¹ß`| IN„ü{Èøí1	â™_$2¸È
+¶&„EdRWÊìÎ†ğ}NVsùÉPs•s öÏ}FÃ·QU%¤‚»qøITlöÊCjãßÓ‚}İàŒ¢%¼Jc@K·ÿC32ôcÙD†K¯@:º`öÄaê¸ÉMìF=†Şw+Å«‰3ì{²’]|^ó\ãDìQ½Vşx²W`+ÖÛ«œ*ÇsCn÷bC.ƒ%'äò´è,ÏÃ¸I%í¸\$Nˆ"¿ó«o´ê-
+sP¹‰foˆµ&$!“iUEŠD
+gôÂÉ2qo4rØy‘è©»'yıï)şëk½iƒÅÙ˜â²^‹#Dêñy¸-ù¬mŒãAo»g2Ğ2ùKÀ†<è‡¢Zİ@JQã¢8&a¢.€Ä^–‡}øØ‘‡ö…ÚGW>¬²zmÙÒ)?îq¯¢7j‚óÓQe¶ä²¯æ…,j:¨œ·DoâC»Ìë™ûgu»ØÛpBÏ;+ŸslÛœVTpïÍONg¿»™ZÍõèS_Pâ¯x%~«Œp¤àFø’7¤!ÊM ¡«Å!
+Z­†L:·Ë9Ÿ#q©û
+Ë…{!Æ#7BÌ©w˜âË›Á9,Â“×ô= 	L¬ÈufíŒšÆÙ¾Ú+ˆ›”T^a¤-ŞJ=¬õ7I§”7U…Pæ0]/êİ¡Ö+´€Œ+%tŸº9FÏ3[É,í"çñ½şo(GB…Û¹uIt¼˜ê–İ¾N"ïr;9±Í›p3lØ¸S:7ÂfÌ«6•­LĞs¥¿×CÚf¶š™¤‹ce–îió¤İ"eæ(_/EÙo^¼eO¦‘¾ëGXçgŠ}9Ç–´é]ĞõQnWXKR%ıùÒ+&š½¦œ'¤oÂ¸W™}€ K¥¬gœÆ!‡ŠÁöPLG"ûCÙl#”²ûšË²¾ÛŒærQÛigópÛşØLÃ¯yIZzûÃYWøá)Š,Iİ2òõLkGï	¸V”tCÆø%„Ï\¸³¢Uº)Q÷ zŒ¿´Ğè­g)»n˜¥Â\º—Ò}Ø®‹EËgÃ½"‡Ä¨{œ»„áò‹cÒëMƒ%IOK¢EmX²´­Q¢ñ«æÿ|¼ŸLöƒA+›1W×°²²6¿3ËÄsµÀD_ıÌ¦_k-lôZÈtíz›µ+—‰†0U¿3êçsü|ô»¥CoR(­y¯‹‚k
+¬Z[Á¹'¥ÌğÜ’é7h‡fWcêüÅ™©¶Ì õšëïì‘©]^Ó–êPØCj÷ã6D†•Lä83MmÙéú:ÌZWÒ!}ßòâsG½ÁM>TnÿŞÀÄŸj\EÅhµ'¼¬–7(ĞlIoÍËÍhkµ–¿‹»Qcóëçkå9è?¨<°j‰î(æ»¹àÃçK_â¥H1…Y¤Ê_ró;{x5cª+G©]ª¬à¹gqËQÓ€…+xŞ!k³«Ö9ux–‡y<dEı„ÚD‹®NH§_ÂQÏòÅœ’‡Œ G"ìï ¤t‡êQŒ´†€S†ÅÜ·
+½Oõì-ÏgÜ sÍ›öeSÂLôz€è3N¢%_]8´˜Ï}k]‰şÔÇ§°òèîQ÷£6¡¹|”mç£Ğ,éÙAÊfÈı êç³|Btöˆ›kk¸ègÔÇ«æ.:[ÃSH¡s¨¢¸D>ÜåÒ(D©£:Ãè×Ì4Ufhù«¬MşLSuº6¥ÛfzE‚ı¬ßCëÊ-Ï¶<-æ£ÅeØ|±Cç(1æÃš9üÜ¨~ú,}~r‰v9·¯§l}{ß2GÔÔ\¥=šınÚï_Ã¿˜º¡»èÁ~Š™vş)éñÁ%@Ieæ™9­.ÛDRz~Ì5Ò2TVg´RÙz‹Q-®ròâšShÃÔîHâI¼ÑãHKĞ”>BK<U¬üËL?ëUpÍJ)ßñÒÑ>w™uzÊy
+µÎZÆ­á£0‡änÖZ›{”uÚxs•UEB­ØÅgÛš´¬÷èÑˆš3¡÷µ§åäsğ{NâwŸÅewíÃÕ}!·³ÖÅF yœ¶Møî'ÜMO­ó¸è¨…³»†½ı1^6 6êä\:{‡ç³ÌÁ/¹´â2ÎÍA/¡÷NáşeÙyèOr²qkî­¿‡°Q¸‡ó¿ı'9ˆ¾A,Ü–7K_ãœlô
+úêRÊwëï,‰Ï³~õ‘~o|¾5Ê8	=çg/÷"Šç÷¦­§ëwù™èuôÕ•Wk0òbÒ`4fşï¢²
+Ü”¼¬÷¾ûçd†0cn8¨4uQöêQ“> <wø¤6®¼¨öÅF°“Š{vK†eZÒ™ëû°–¤Yì™0Ì×»iB³!¡×ìQ”¾âÖ3‘e¨=ó_ê‘ÑE|ø­ærfVW—ş²$¯×SU|æ/;{%}x^nÆğV«¯Îh*A?”ƒÜó]ÿ À’ôš\îÌÌ*ÎbU²y±h6UøšÈ˜EK7g³-Q‹E´^]±<&vû-½²•Ğåa:‡§»ãÿ;Ç–ÅÈ‡^¤	[‰ã5„J\…#Q¨ô*Åå–cSŞ"t„=™Üİ'Iİ>–ÍÃÊ¶øCªĞRå64õ6™nªúMpØÉ
+bâİLmzOFÏs©,Ú,>–Ü·Ä7H
+Ÿ\\’‘oÜ`4Óæ`w›”Ä)ÂŸÚÑD¬pĞÆßÉ-tã$#ãšï%
+,<A^C7ÖTiJõ—4ô¶%‡2.yø{Í¹Ff°Ôß![û}Yã“ú”c”CLRW?xJ"édÄµ{¸ZÍh—¶÷t$¢€tˆıZR¸"sh–-##Yçë#wVäØ\ª-WØJçu•ŞqÍÂ””Ì€PMŠKÔ”á•¯­	95&	Rl­Ş’œŞ'©Jo+æˆm©ŠËÉß6öÃb6š@†¾ôèôªÇå;ØÉzWZÿ%zuĞ¾ŠÄ	¦†ÂAC¡ËFŒ§FPåØøÈ¶Ã¬è¾,Ò„x7í¹%Ø¥«-w’3Ã@^·êåÒI,z }³|äÉÿ^£í¹«÷æÒ&.8îÀKdføÊÂÛml¡Ì*š]àŠuN¯‹şIì²¶«y6:újI_&ş"Cj*e#¶L¬-lQ;8
+CI–j£¦ÎjÕ(ôZh÷!M õ%«iUÏByœW¬N¬úÒûèK”ıÄ6b…f{õM½õéº“;t4¡Ş}nñ×/òdö@E:ßkå€ì>êHxF°éı¸jÀ*9¹0î:á –n:Æ7òQ<>3ÏœÀ»ÆÍU;šåájk©Aöêå)É._n&‹NÑ¯¾+$©5œÙöáCp”™ø‡@Êë¥à.0±ÙÜ‹?Ä‘‡Ä²Æ$±0÷÷OµHÅßìIp$~+MË!ä	„şíÒv!õ:=
+»KşeÜ")k‚à:Cpzje$tŞ\—Ïw°àîY–$ô%šHƒkD	™lôšÅÚ6N.,re½)¸gt‡W\ğu°rzôûl;PÑœ±ëÚ·¾@Ï£ÖDBÙˆÀÂ8t%jiîšyt:z=K¨›^:‰p…œW±İ¨B)‰ÿ5/•åİ1…Ë~“ğíLì€‚‹ı=p1ü?áÜ·{8"o[!®AÉ]øC!_“CoãôEçÁÂ¾f‹¬ğ:KäMxw ‹)pØ«0ê
+…+ñ›Ë$4Ï½œßRÒİìÃ¯~·¢a¨íMĞ?G{âk•…—Y‹²ÓC}+qÔc˜Íw @¼.sCbÜNåÜsÅ’Ñ ög¼ ëàkü#:^Í€_œcş¨öÉÎ/²±\½ÿ¿"µò·“ú¢”Õ'tkñ?¢edğj1İ÷$%½"Í›/Öx]*ú˜ÒÒÑtŠ·“Û&àN³²ùR3>ïÃã™\<WxïBVB›\X6U”¼VcO-t|îšéÙæú~3uÜÛÄ¼Q>¯}à€#¾fy¢[åqÙûöÉ¶—lòi‡ÖÚ>e„[â­\Ef}«¬aÍ6ç7à—>Å¶ƒVàk8#ÚÊÏ†çlŠ-{´­¨bãØy‘›~VŞbAŞQ «o¬0i0+bÜ¦$iO,'Š›ÇÌ“]øL0/9zÛ…¨(ö§»Qkß‡n?-Ì»úúà‹(êîÉ±Q—Ï‡’½A©6zoô«wÙ5l¬[÷­İ¯ +`?ÿ%›ó‚ÏûÁaÿ´Ñ4‹©²À1ºRİiìí'‚$ÿjá¥Í<z•bµãt­l¦Ë¯g¢çÒiíÓ"„ö$®ô¶”«Î(…6\¼2şXäÿ9¢Ğt\|ºÿ+E:¯Š+ëqVÄmĞ–*T²¬¾¤:™bFàøñøÎ¬ø‡<Ó’.]U†	£R¨	Çî	6+”~iŠ_n*êS'!z Íìo%.ofƒ †B^Ñ®pX2æ $~ÇqB×müÅv»O6I?Gêè(XB$- ¼MU#
+×ˆ{fR@ÓcÖçYü¿”Ø?Ãßöc›°É†(ûg88#††Œë¥Ğ£áøJ²æó#Å£5£G§¢S^È È?d+ nªâ‚Æ´×şœÚfW©l6µÒng±Û¡í¢RnÎõUÿßÖ¦‘¹9ÑX}Eú…É¥	ó4ãù&,àæb‰v×K'çQÍØè*uÀ4·u[l³§9¶™ÿş|[+Ü›ëÊÒc±VË"—[˜¬Xk¬S¨weåFÅ&ˆg	ùÑŠ…Í-şğ¡˜Ë¦X¢|á,qB,ÄÎ-ç‰âÁ1‡±ê‚ærm]G|ÚCd‡D¾œEKi®NØ;$qŞL0ÎÓ’‹/Œú)a
+×Úb<¨-q•R¢µ¼÷³ÅZw¥$#aöóŞS‰¤3œY“ÈNn¬³şef¥.“)Òì–ŠN>Ã}Ó0tØ»¬°o¸:ó~Ô™ç?RÃÕdM_æ{ÊíŞŒ3õóOÁà–ÒIÏ¨‚€az¿†cNÁˆLëˆ€C3¸*Ë”–ïMóè¸ìVOcO&iıt9^Åo›Ç1…µúLÓ f«?³I]‘<2«ÈÖ:Ü0W3´›š9mŸÄøƒÿ$m¾ô™ÆÎ¬™–£×Êdç·û<“‹<“BšŸBĞ‹
+-ÂÓSÑ+½H!-Ô¥êª{èSSäİØ¦DºËp&Êà)°úœ…Úø¾b†%‘Øgÿm}n¬Ği*ÓÓ5‚×H+8«ÈÄ¹jµAÆ«Ş=ÍõÄ——^ú	/&Æ\ª®[H4¥6Ç—ß$Æ”ÅÅ\½=çF^6u³gã×¤_ö*ÿ/‡²sÿTh}W…®l T`v_ˆ.8ƒßşƒ 3–RÓe4“21ŠI`…¡qXjBT2°:&E†GŠ—ÆˆaoæDd19á|ï®yé7p|©ÎæT«lY:-K¥¶9ãbfˆ”ß¨±cªàò¹E÷%H;U-mLşÕ³2ö,f¡*Ya™±–óóØôí¤—<O\]ìåå„Ø¥F½ØÃ(¼¯Ãçl©ÔTT¼‰·%$LÊİÄ[Z(Ìdï˜…mÉ“ê« ¾=lìõûVÆıÛŞKYB³&$q‚#L½WÇb™·¥ç³]ìÈĞM™lÏšñdiÉ7šêĞ_çÓ›\¥ãòØ®ÜØ Ñ™ÊÓó‡M¡ìwïá´Ô­¿ÕÄÅÙî5v41ôøC>X•}ÄVçqö6™	DÔÎp­¸ú”õÇ_^ã	î0üèÇ,Vëb­Y.3ÀñîDh¹ ØSu9ÜÆÉ^ày?šBZR”ªW9é: ×èaâ>38Šh>ORÚ°”7½i*Ğz¿½I¬ä¶ÀP4¿s<o|ãx^}çq@/ G1Ã·õßˆ½nB/M:Ú×ŞØÎkß™ÇGá³>ÛWk~­*2Qí¯•E˜)Ö¸Áîyõ™,©5¾Å=Ï¹ºĞbş×…ì—s)süGTñ5Æ§­N2f8$ªÁÚ‡„b¤Q¼Ÿù¬’¯ôõåÿÍg~È2yªëm¾§òJ”´ŞªØ?LM”ôb2ö™2ìn£-ÓW®'d–¹¬}â€€3DDIçÚ)GDª€P’)Vzó,Å¡ÅU™òŒÜ>Jø-æO¢ä t±™ìç£EØmïáORÍ÷VRMDî¼æór–3?Å+ªÏğ†w½I¨¨—•Èİ–úæ4øÁ\¡npÔ•u¯kka$ãÍÚ6d¹_¬Rûå¢­RZ^®?üÍÍ*™Än`ÏÎ7±ÓñkædóSësæê¼Şù–Í¿È½Ê°2Ì_é*¸iv)£owÀÌWei%Zo‘D®*HVºeB»ã,Qfvz
+×ú¯3fjÍ8Ò[°’g>¯k²:tºÏ*şxWJB¹$ÉæÖø&Uè–*écsÏ?‰nVÉP– ÷è&YİJS9¥&•Ğêê_¦ã”¾Fug	Õa—ã";Bœ"UXá]0…×Ò{«i…¼¸pH ¤šíÂµÑIÇè	XF‚ŠK-ÛÂSÿ-½>Êëx°zm8¾?t‘tSÈ©áá+ƒÙ¶0jj"GÏ.T³ÂE†ä¤C‰±{©q66y5Ê¨ë?ƒ®~Ì®<9$´Xc†áµö•á§ƒx¯|‡şhF}''16ŸwàƒV"`s;Dºåö•ÓºõùD ç{-jŞ4ºIş{åØñM1T+%Pt ¯U.‘²¿]éÛ•Î2%&îaòÿ§ór‚@$N.1Ô‹2ÏØŠÀëÚ_óH:·R”ğşzæé$:c[aViÅp*‡«ğú™Ãv
+Yßšb*õ;õ{“VO_Ñ©è&R¬(Ûˆ×*KÙ_H2ü9Êö±6ï¿¤¨K‚‚Ò˜–ÄÄİp2äÂ-Ü?Ü4îŞ¥Øµ[uNşÅrE)0obh¦j¦=ñi1q{ªf½T³EÊX¸ñ›	ÆëµåŒ×»vè(‹.;]ï†ø'¬F—Š#jogœ–ªRkL‰3–ÿó®e
+iiç—3N—íR€jiÎ|ñIµ97ºŒ»›ËŸ¿Êç»T*\eåè3‚±rnúúriºY.×štåğEÂ÷O½Q˜ÕÅâ˜ŠÀ¨õšf	ŞoÏófSÙlêlŞ.·€Ë‰ÜÃ.“
+êÊ}RS¹Kî`­I`‹3³e_~¦N’Ÿ™%òs{KNË£­U<ôšÇ¡g¥Œªï—ÃF+,ÜĞ[ÑHgÆ½­
+Â¸©r¼¨ä7Û¤Ÿ9Sñÿ§°¾’Æ¤ü§Î®´˜kc›²Ëÿ]aQ½€á²–Ùí«.‡T3aõ¨øÍ·®£Â.…ªÍGÈ·’È;¼#L,öØ®0û®¡/k)¥ïnœıAºØß„øˆÊ¹õeÕ«> r_Åô¶Ü¹êdcï„MÍ™æsDòÎ\÷†´ÄWú‡ÔGââ¹3Éëö>Û/­pIÁ¬İ{ø‹éÏ4gqŠ‡æğe.ÊŸµ·Yå?lJUhÄWàõ›Ğ
+pU#RYÂÉ€² }æŸÖÄº¤ËJy/Yî<¸¨Ù·µîŞ?ªY®÷²ÈäÈ™Ö Ã€&#B¨æS‘y24‘ÎdN£µré3-ì¢‚ÉÍµÛ¢úÌ;à03gÃ•Vóƒ’H:(º¥œÈÙUf5L¨z	µ\fF’XNş±º%óü$³™OI“Os;v2;ìÑÚ½,F>-VV™ôA­ëóói¥ÌşEÏäÛ üù´¿*ñ—ÁL§Óùa:H¾jÈ/Ã@g;¢º-:ıRzšiL§“YÌ¶_Ú[:Yñ`Ën!ˆíºúia×êVmøôD9©ÓßXÜJlùvmy[´¢¹bœô6ü÷esU+ÒÚXëñîgu·âìn°Mµñ´rª‹òÓ­üLígÿ›œ«ùùN~¡·_|ë—ZúåzrÅáWK¿ÖÂ¯ÿïµ;¾Qæm|^‰¿â‹æ+ßì“íå3_øÊ7¾ócáç:Bj‚Y«½¬†‡AB¿«}©ÓÜıÖ^cÒ^¨ø?ó©U UÀ¿¿•ôÿãı§T<<WşÌ¿?¯şp ‚ôê”'ÖízæÑ²ìxiE±€‘;h2ÛfšÑêĞ&×şÙp¿îîqrÜ»Íë2À¶•Ù½l®ç¹~¾9¤|¥ÿwXXÍüíı£-¼ÇóïÆŠª4 –UdöP£Vi:–Y¹è¥fbd‰4`«cè“½²–$8-0Je Vqßğø( [vÅ"ó‰€ŞĞQ¿zâfmµ†éš˜?Ô–µ±–/¶Àö[zÑòP¨ºãXzË×\¥ãq†é~µG7œK…ÿÃ‡¦KXÍÍpŒ;ĞôuzRÓî)>k§p4¿Õ·,¤3å~èñÓŞM¦¾µNâ­§  ƒú¢ˆC¤¾PAÃ=Àk?….šRp“¾´ô”\-ÏŞV”{Ñ§=ø2±~?H’™Tqú½h¦&°{LŞ)¥1.¦C Q´¬« <¦ãj>†“cÑ=÷vÁ! À¿wÿÒK¤C ±|¾šV‘†ÿ‚ˆØG€OİÖ ø<Œ¸îj.¡¤?`5@€ïË`”'"FstˆÕÆ¨ŞÑÒş^ªgxéÌÍbŞ5C¼é´bzvFä6ƒĞtŞÃĞÔ‡N.Ÿc#™53W_Teìw)G¸eßÃ>W…ÓØ¹éLPÒ¯N~®¡eÀC£ç ²M[(+Şã.ßƒù¬ô˜t2Éİ¤˜”¸{àÅ8Y©4¥ÑLBø”‘ÙëbZ²›×AÕ&U‹œ­[÷ñ^w¼W¨µxwØûUd|·É2ş¥tRï"€(«iI“²T‚ÿxã+%ÏT>£Ê\Ã½³B 7TC´ÀòZ
+šu\×‡Ã¹µpdÅ•¾PqŸÉ¿)‹5„B´ÜnÒ¦ó¶wQC€@I˜Â¹Ú€Køjí…‰6ºÕxÎÌ‹åÂÒ[ÎèöIá8<Ñ¤m‡”:å@İE 2È ’L°iÂ¸šÊ¾¥I£‰(Ã€¶´Ã€bq{JÄĞh([· Oğñ!œ²s¨§»PJ¦9ûÊû¡bI(h)àC©õD{\ÕÕ9'µ(;NêX6¶`±É•â®5t;QÎüÿâ_·qnğfĞû7tÒĞvC\¢»v³g«]òÛûÄˆQj5 ÂPq˜
+âÑËÁp°@½`!	À-P[Ú°"F˜+biœY‡fE<j,Jğœ!7Œª2ÖïeÃnYŞúhÆ  #§Åg 'ÍMïXO5š5©R! É }ÍƒYËMû¼¹MaD6oÖ(”Toum©Õ$oî ¤Ãæ¯ÕBë6ÚeXW*=eºWæ¡9ë²½µ¨Ïm¢ ![C‡^ ÜÏF*)îòmÆ Y›ÒÃèÖ­åáR3lÚø8ƒH‚z’ÁÑŞÙ>ı<0?íFŠ¯ç¹¿ˆ„`‚G¸Jë¸¯jºaZ¶ãz~Fq’fyQVõ`8O¦³ùb¹Zo¶»ıáx:_®·û !A1œ )ša9^%YQ5İ0-Ûq=?£8I³¼(«ºi»~§yY·ı8¯ûy¿ B0‚b8AR4Ãr¼ J²¢jºaZ¶ãz~Fq’fyQVuÓvı0Nó²nûq^÷ó~?DIVTM7LËv\ÏÂ(NÒ,/ÊŠ Ö´i»~§yY·ı8¯ûy¿ÿû¨ñæ¾@Q5]¦e;®'}*Î`²Ø./ŠÄ©L®PªÔ†F¡Ó¥ı p‰û=	 WÛGÊ¸J¦•]ˆ0¡Œ™ê ˆ0¡løEŒRiÃÜ¯}Foÿÿ{¿ÿLÂ„²Õ'•6öÈª!Â„2.¤Ò†ie×"L(ãB¦º "L(ãB*m˜–	¿öUÿü÷úíoé2Šş1•ı@ì½‘Œ ˜7®İ;AÑ&ÈBAõƒ'§+mWU¯Y¹áøß®X~„„`aB"‚ûº9ø¨ò=aA=–CšU7´N(VßOPw„Ôïó~"À L*+6=Ù¯˜Lõ¯^­Ç§Å¯¾Y11³¤‰â–„.(­kŞ{{T\|š/Ha_c}Å¾wU÷]Ëõvzö…YÚ„`ÄÄp¢ó*Gà¯®nûì#a¢÷Õ9B¢‡$¤!y(LvÏ¥¨sŒ›\nRíüûÿ×ß½…„EDÅÄ%H'yüüãÃ„„EDÅÄ%ÎsÉ^f}A¨™šácMû ?÷úíò1Q+ªïyÌõÕLW½qç
+ íú¹t|¾Í}Íõ‘ï»õ·u(ˆ >fÏPWËP§cÜû™¼pëóqİ‰ÚÇé  Zfont/woff2O
+Qbplist00Ô
+X$versionY$archiverT$topX$objects † _NSKeyedArchiverÑ	_WebResourceResponse€¯)'-.4567[\]^_`abcdefghijklmnopqrstuvwx|}U$nullİ !"#$%&___nsurlrequest_proto_prop_obj_6___nsurlrequest_proto_prop_obj_3R$2___nsurlrequest_proto_prop_obj_0R$3___nsurlrequest_proto_prop_obj_4V$class___nsurlrequest_proto_prop_obj_1R$4R$0___nsurlrequest_proto_prop_obj_5___nsurlrequest_proto_prop_obj_2R$1€'€€	€€(€€ €Ó()$+,WNS.base[NS.relative€ €€_Jhttps://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M5knjsS_ul.woff2Ò/012Z$classnameX$classesUNSURL¢13XNSObject#AÃ“*{J ÈÓ89:JZWNS.keysZNS.objects¯;<=>?@ABCDEFGHI€	€
+€€€€€€€€€€€€€¯KLMNOPLRSTUVWXY€€€€€€€€€€ €!€"€#€$€%€&\Content-Type_Access-Control-Allow-OriginSAge_X-XSS-Protection_Cross-Origin-Resource-PolicyWExpires_Timing-Allow-Origin]Cache-ControlTDate^Content-Length_#Content-Security-Policy-Report-Only_X-Content-Type-Options]Accept-RangesX__hhaa__]Last-ModifiedZfont/woff2Q*V310602Q0\cross-origin_Sat, 22 Oct 2022 03:00:59 GMT_public, max-age=31536000_Fri, 22 Oct 2021 03:00:59 GMTU13748_Yrequire-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themesWnosniffUbytes_°
+
+YnBsaXN0MDDeAQIDBAUGBwgJCgsMDQ4PERMVFxkbHB4gIiQmKFxDb250ZW50LVR5cGVfEBtBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW5TQWdlXxAQWC1YU1MtUHJvdGVjdGlvbl8QHENyb3NzLU9yaWdpbi1SZXNvdXJjZS1Qb2xpY3lXRXhwaXJlc18QE1RpbWluZy1BbGxvdy1PcmlnaW5dQ2FjaGUtQ29udHJvbFREYXRlXkNvbnRlbnQtTGVuZ3RoXxAjQ29udGVudC1TZWN1cml0eS1Qb2xpY3ktUmVwb3J0LU9ubHlfEBZYLUNvbnRlbnQtVHlwZS1PcHRpb25zXUFjY2VwdC1SYW5nZXNdTGFzdC1Nb2RpZmllZKEQWmZvbnQvd29mZjKhElEqoRRWMzEwNjAyoRZRMKEYXGNyb3NzLW9yaWdpbqEaXxAdU2F0LCAyMiBPY3QgMjAyMiAwMzowMDo1OSBHTVShEqEdXxAYcHVibGljLCBtYXgtYWdlPTMxNTM2MDAwoR9fEB1GcmksIDIyIE9jdCAyMDIxIDAzOjAwOjU5IEdNVKEhVTEzNzQ4oSNfEFlyZXF1aXJlLXRydXN0ZWQtdHlwZXMtZm9yICdzY3JpcHQnOyByZXBvcnQtdXJpIGh0dHBzOi8vY3NwLndpdGhnb29nbGUuY29tL2NzcC9hcHBzLXRoZW1lc6ElV25vc25pZmahJ1VieXRlc6EpXxAdVGh1LCAwMSBBcHIgMjAyMSAyMjoxMDo0OSBHTVQACAAlADIAUABUAGcAhgCOAKQAsgC3AMYA7AEFARMBIQEjAS4BMAEyATQBOwE9AT8BQQFOAVABcAFyAXQBjwGRAbEBswG5AbsCFwIZAiECIwIpAisAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAACSw==_Thu, 01 Apr 2021 22:10:49 GMTÒ/0yz_NSMutableDictionary£y{3\NSDictionaryZfont/woff2Ò/0~_NSHTTPURLResponse£€3_NSHTTPURLResponse]NSURLResponse    $ ) 2 7 I L b d  – ± Ó õ ø?Fhkn²µ·¹»½¿ÁÃÅÆÈÊÌÎÕİéëíï<ALU[^gprt{ƒ ¢¤¦¨ª¬®°²´¶¸º¼¾ĞÒÔÖØÚÜŞàâäæèêìîğı2QYo}‚‘·ĞŞçõ 	8SsyÕİã—·¼ÒÖãîó			             ‚              	-_Jhttps://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M5knjsS_ul.woff2    1 < N d ‚ ‘ ¨,O,Y,_,Œ,,‘,œ,²9Ÿ9¨9®A AÁAÌG5O¦OçOğ…¨…³                           U
