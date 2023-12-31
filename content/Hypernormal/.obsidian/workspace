@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "429cb05c75d306c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "76f70fe761f5563a",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeccdb1b6231abc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a02fe8786b5d419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9704378bf9396d8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4943daf67dc2c26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "brian",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f8dc776179b89e2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "50016f484d11546c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82227b873e475dc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "76f70fe761f5563a",
+  "lastOpenFiles": [
+    "img/bookmarks.png.md",
+    "011.md",
+    "001.md",
+    "_index.md"
+  ]
+}
