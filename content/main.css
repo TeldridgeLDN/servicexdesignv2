@@ -7,7 +7,6 @@
     font-family: 'Spectral';
     src: url('fonts/Spectral/Spectral-Light.ttf') format('Spectral-Light'),
   }
-  
   body {
     margin: 0;
   }
@@ -37,7 +36,7 @@
   }
 
   .header {
-    font-family: 'Spectral', serif;
+    font-family: 'Canela', serif;
     width: 62%;
     margin: auto;
     /* margin-left: 470px; */
